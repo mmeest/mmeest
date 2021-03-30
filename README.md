@@ -22,7 +22,7 @@ mmeest/mmeest is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-<h4>My favorite languages are: <b>C#,</b> <b>JS,</b> <b>Python</b></h4>
+
 
 #### Languages Used
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmeest&layout=compact&bg_color=1a1b27&text_color=36b2a5">
