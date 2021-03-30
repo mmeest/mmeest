@@ -1,6 +1,8 @@
 <h1>Hi, i'm Martin.</h1>
 
-<img src="https://user-images.githubusercontent.com/34022590/113019055-db41c600-9189-11eb-863a-9fcd272e697f.png" width="700px">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/34022590/113022781-a5064580-918d-11eb-87b2-bb145e38add3.gif" width="300px">
+</div>
 
 I'm self learned software developer who's main goal is to write a code that comes to life.
 
