@@ -7,8 +7,8 @@
 </div>
 
 <hr>
-I'm self learned software developer who's main goal is to write a code that comes to life.\
-Currently living in Estonia.
+<p>I'm self learned software developer who's main goal is to write a code that comes to life.</p>
+<p>Currently living in Estonia.</p>
 
 - 👋 Hi, I’m @mmeest
 - 👀 I’m interested in travel, photography and code writing
