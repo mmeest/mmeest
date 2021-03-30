@@ -1,6 +1,8 @@
+<h1>Hi, i'm Martin.</h1>
+
 <img src="https://user-images.githubusercontent.com/34022590/113019055-db41c600-9189-11eb-863a-9fcd272e697f.png" width="700px">
 
-Hi, i'm Martin. Self learned software developer who's main goal is to write a code that comes to life.
+I'm self learned software developer who's main goal is to write a code that comes to life.
 
 - 👋 Hi, I’m @mmeest
 - 👀 I’m interested in travel, photography and code writing
