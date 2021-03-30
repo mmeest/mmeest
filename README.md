@@ -15,4 +15,4 @@ You can click the Preview link to take a look at your changes.
 [![
 
 #### Github Stats
-[![mmeest's github stats](https://github-readme-stats.vercel.app/api?username=mmeest&count_private=false&theme=tokyonight&hide=contribs,prs)
+![mmeest's github stats](https://github-readme-stats.vercel.app/api?username=mmeest&count_private=false&theme=tokyonight&hide=contribs,prs)
