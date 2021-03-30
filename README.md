@@ -3,7 +3,7 @@
 <hr>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/34022590/113022781-a5064580-918d-11eb-87b2-bb145e38add3.gif" width="300px">
+<img src="https://user-images.githubusercontent.com/34022590/113027148-6fb02680-9192-11eb-86f5-4c84cd289b6e.png">
 </div>
 
 <hr>
@@ -29,3 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 #### Github Stats
 ![mmeest's github stats](https://github-readme-stats.vercel.app/api?username=mmeest&count_private=false&theme=tokyonight&hide=contribs,prs)
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/34022590/113022781-a5064580-918d-11eb-87b2-bb145e38add3.gif" width="300px">
+</div>
