@@ -12,7 +12,7 @@
 
 - 👋 Hi, I’m @mmeest
 - 👀 I’m interested in travel, photography and code writing
-- 🌱 I’m currently learning ASP.NET
+- 🌱 I’m currently learning JAVA Backend
 - 💞️ I’m looking to collaborate on machine learning
 - ⚡ Fun fact: I play games and like historic architecture.
 - 📫 Nice to hear from You
